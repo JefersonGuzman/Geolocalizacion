@@ -1,0 +1,105 @@
+body{
+    background: #F4F4F4;
+}
+
+.logo-empresa{
+  margin-top: 2rem;
+}
+
+
+.cont-map{
+  background-color: #dbdbdbd8;
+  height: 750px;
+  background-image: url("../img/maps_icon.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.btn{
+  width: 100%;
+}
+
+.logo-empresa img{
+  width: 180px;
+  height: 40px;
+}
+
+.form{
+  text-align: center;
+  margin-top: 2rem;
+
+}
+
+.table-inf{
+  width: 100%;
+}
+
+.table-inf table {
+  background-color: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  width: 441px;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 5px rgb(151, 151, 151);
+}
+
+.form-principal {
+  text-align: left;
+  font-weight: 700;
+  padding: 1rem;
+  /* margin: 1rem 5rem 1rem 5rem; */
+  box-sizing: border-box;
+  background: #ffffff;
+  border-radius: 10px;
+  width: 441px;
+  height: auto;
+  border: 1px solid #e5e7eb;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 5px rgb(151, 151, 151);
+}
+
+.borde-form {
+  margin: 1rem 0rem 1rem 0rem;
+  box-sizing: border-box;
+  background: #3ab4a6;
+  border-radius: 10px;
+  width: 441px;
+  height: 17px;
+  border: 1px solid #e5e7eb;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 5px rgb(151, 151, 151);
+}
+
+.btn{
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+.cont-table-comp{
+  height: auto;
+  background-color: #fff;
+  padding: 1rem;
+
+}
+
+.cont-table-comp {
+  padding: 1rem;
+}
+
+.cont-card-num-comp{
+  padding: 0.8rem;
+  color: #ffffff;
+  font-weight: 700;
+  background-color: black;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.cont-valor{
+  color: #010101;
+  padding: 0.5rem;
+  border-radius: 10px;
+  background-color: #f1f1f1;
+}
